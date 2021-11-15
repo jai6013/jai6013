@@ -8,7 +8,9 @@
 
 - 👨‍💻 Connect with me **[Jai Yadav](https://www.linkedin.com/in/jai-yadav-4b2635140/)**
 
-- 🔭 I’m currently working on **[InternTheory Clone](https://github.com/AlbartJose/InternTheoryClone_Unit3)**
+- 🌐 Checkout my **[Portfolio](https://jai-yadav.netlify.app/)**
+
+- 🔭 I’m currently working on **[Gab Clone](https://github.com/jai6013/Gab_Clone)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
